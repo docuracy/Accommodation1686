@@ -1,0 +1,76 @@
+{
+  "title": "Accommodation, 1686",
+  "language": "eng",
+  "related_identifiers": [
+    {
+      "scheme": "url",
+      "identifier": "https://discovery.nationalarchives.gov.uk/details/r/C2209018",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset-report"
+    }
+  ],
+  "communities": [
+    {
+      "id": "gis"
+    }
+  ],
+  "subjects": [
+    {
+      "term": "gazetteer",
+      "scheme": "url",
+      "identifier": "https://www.wikidata.org/wiki/Q1006160"
+    },
+    {
+      "term": "Historical GIS",
+      "scheme": "url",
+      "identifier": "https://www.wikidata.org/wiki/Q57243082"
+    }
+  ],
+  "keywords": [
+    "GIS",
+    "beds",
+    "stabling",
+    "historical",
+    "gazetteer",
+    "england",
+    "wales",
+    "place-names",
+    "early modern",
+    "map",
+    "towns",
+    "markets",
+    "cities",
+    "parishes",
+    "villages"
+  ],
+  "creators": [
+    {
+      "orcid": "0000-0003-3060-0181",
+      "affiliation": "Viae Regiae / Docuracy Ltd",
+      "name": "Gadd, Stephen James"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Field, Jacob",
+      "type": "DataCollector",
+      "orcid": "0000-0003-3187-3050",
+      "affiliation": "CAMPOP"
+    },
+    {
+      "name": "Shaw-Taylor, Leigh",
+      "type": "Sponsor",
+      "orcid": "0000-0002-3703-7689",
+      "affiliation": "CAMPOP"
+    },
+    {
+      "name": "Bogart, Dan",
+      "type": "Sponsor",
+      "orcid": "0000-0002-0011-3190",
+      "affiliation": "CAMPOP"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "upload_type": "dataset",
+  "description": "<p>The Monmouth Rebellion of 1685 prompted the government in London to undertake a survey the following year to establish the number of guest beds and quantity of stabling available across England and Wales for billeting soldiers. This dataset represents an attempt to identify and geolocate all of the place-names noted in that survey.</p><p>Transcription was undertaken for CAMPOP by Jacob Field, with funding provided by Leigh Shaw-Taylor and Dan Bogart. Stephen Gadd is responsible for place-name identification and geolocation, matching place-names as far as possible to the <a href="https://zenodo.org/record/4749505">Index Villaris, 1680</a>&nbsp;dataset, GB1900 labels, and OpenStreetMap nodes.</p>"
+}
