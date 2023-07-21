@@ -1,12 +1,11 @@
 {
   "title": "Accommodation, 1686",
-  "language": "eng",
   "related_identifiers": [
     {
       "scheme": "url",
       "identifier": "https://discovery.nationalarchives.gov.uk/details/r/C2209018",
       "relation": "isDerivedFrom",
-      "resource_type": "dataset-report"
+      "resource_type": "dataset"
     }
   ],
   "communities": [
